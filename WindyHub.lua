@@ -10,4 +10,4 @@ getgenv().Hermanos_Settings = {
 }
 task.spawn(function() loadstring(game:HttpGet('https://raw.githubusercontent.com/hermanos-dev/hermanos-script/main/script.lua'))() end)
 
-loadstring(game:HttpGet('https://pastebin.com/raw/pqk7Z5fs'))()
+loadstring(game:HttpGet("https://raw.githubusercontent.com/ItzWindy01/WindyXBypass/main/Rewrite.lua"))()
